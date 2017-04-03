@@ -7,4 +7,19 @@ div{
 }
 select{
   margin: 50px 0px 0px 500px;
+  background-color: #f6feda;
+  border-radius: 15px  ;
+  border-width: 2px;
+  border-color:  #98be10 ;
+  color :#98be10;
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
+}
+option{
+
+  border-radius: 15px  ;
+  border-width: 2px;
+  border-color:  #98be10 ;
+
 }
