@@ -1,0 +1,10 @@
+div{
+  display: inline-block;
+  background-color: #f6feda;
+  margin: 30px 0 0 30px;
+  padding: 20px 30px;
+  border: 1px solid #98be10;
+}
+select{
+  margin: 50px 0px 0px 500px;
+}
